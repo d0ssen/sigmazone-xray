@@ -58,7 +58,7 @@ h1.titl{
     flex-basis: auto;
     align-self: auto;
     order: 0;
-    background-color: #b56bff33;
+    background-color: #00a4ff33;
 
     width: 600px;
     height: auto;
@@ -149,7 +149,7 @@ a{
     
     font-size: 30px;
 color: #fff;
-background-color: #b56bff57;
+background-color: #00a4ff57;
 padding: 5px 30px;
 
 box-shadow: none;
