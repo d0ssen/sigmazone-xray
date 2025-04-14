@@ -31,7 +31,7 @@ body{
     
     font-size: 30px;
 color: #fff;
-background-color: #b56bff57;
+background-color: #00a4ff57;
 padding: 5px 30px;
 
 box-shadow: none;
@@ -67,7 +67,7 @@ padding: 5px 50px;
     
     font-size: 30px;
 color: #fff;
-background-color: #b56bff57;
+background-color: #00a4ff57;
 padding: 5px 30px;
 
 box-shadow: none;
@@ -103,7 +103,7 @@ padding: 5px 50px;
     
     font-size: 30px;
 color: #fff;
-background-color: #b56bff57;
+background-color: #00a4ff57;
 padding: 5px 30px;
 
 box-shadow: none;
@@ -128,8 +128,8 @@ padding: 5px 50px;
 }
 
 h2.msg{
-    color: #b56bff;
-    text-shadow: #b56bff 0px 0px 4px;
+    color: #00a4ff;
+    text-shadow: #00a4ff 0px 0px 4px;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: bolder;
@@ -166,8 +166,8 @@ h2.elko{
     margin-left: 4%;
 }
 h1.ETAP{
-    color: #b56bff;
-    text-shadow: #b56bff 0px 0px 4px;
+    color: #00a4ff;
+    text-shadow: #00a4ff 0px 0px 4px;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: bolder;
@@ -216,7 +216,7 @@ outline: 0 !important;
     transition: background 0.5s, border 0.2s, margin 0.5s;
 }
 #button:hover {
-    background: #852ddd;
+    background: #0067a1;
     margin-top: 0px;
 
     animation: none;
